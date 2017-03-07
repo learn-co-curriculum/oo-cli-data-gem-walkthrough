@@ -20,7 +20,7 @@
 [MP4](Needs Upload)
 
 
-## Summery
+## Summary
 
 * Planning the Gem
 * Beginning the Gem building process
@@ -53,3 +53,5 @@
 
 - [Daily Deals Gem repository](https://github.com/learn-co-curriculum/daily_deal)
 <p class='util--hide'>View <a href='https://learn.co/lessons/oo-cli-data-gem-walkthrough'>OO CLI Data Gem Walkthrough</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/oo-cli-data-gem-walkthrough'>CLI Data Gem Walkthrough</a> on Learn.co and start learning to code for free.</p>
