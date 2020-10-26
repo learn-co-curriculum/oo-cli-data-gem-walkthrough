@@ -43,4 +43,4 @@ This video walks through the process of planning and building a CLI gem. There w
 ## Code
 - [Daily Deals Gem repository](https://github.com/learn-co-curriculum/daily_deal)
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/oo-cli-data-gem-walkthrough'>Building a CLI Gem Walkthrough</a> on Learn.co and start learning to code for free.</p>
+
